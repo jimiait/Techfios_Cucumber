@@ -1,0 +1,4 @@
+pages\DashboardPage.class
+pages\AccountPage.class
+pages\LoginPage.class
+pages\TestBase.class
